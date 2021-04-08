@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Özkonak Kasabası" tvg-logo="https://i.imgur.com/d0DwjvK.png", Bahçe
+https://usd.nocvp.com/asset/7JRF56CJ/chunklist.m3u8
+#EXTINF:-1 group-title="Uçhisar Belediyesi" tvg-logo="https://i.imgur.com/d7obRps.png", Uçhisar 1
+https://player.rade.com.tr/uchisar/uchisar.stream/playlist.m3u8
