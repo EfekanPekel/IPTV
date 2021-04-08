@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Tekirdağ Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/KDm9uex.png", Süleymanpaşa - Balıkçı Limanı
+http://wowza.tekirdag.bel.tr:1935/sahil/sahil.stream/chunklist_w1140208261.m3u8
