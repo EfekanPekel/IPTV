@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 group-title="Mudanya - Seyirtepe" tvg-logo="https://i.imgur.com/ieYWBSs.png", Seyirtepe Konakları 1
+https://apps.daredome.tk:5443/WebRTCApp/streams/947173816385439032310549.m3u8?token=undefined
+#EXTINF:-1 group-title="Mudanya - Seyirtepe" tvg-logo="https://i.imgur.com/ieYWBSs.png", Seyirtepe Konakları 2
+https://apps.daredome.tk:5443/WebRTCApp/streams/319970012506683237219687.m3u8?token=undefined
+#EXTINF:-1 group-title="Mudanya - Seyirtepe" tvg-logo="https://i.imgur.com/ieYWBSs.png", Seyirtepe Konakları 3
+https://apps.daredome.tk:5443/WebRTCApp/streams/161968106977418346832568.m3u8?token=undefined
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Beceren Pisti
+https://live.dgn.net.tr/uludag/v6jbtwy4fp/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Alkoçlar
+https://live.dgn.net.tr/uludag/3ka9epe9yp/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Karinna
+https://live.dgn.net.tr/uludag/rp6csxceh/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Ağaoğlu Gondola
+https://live.dgn.net.tr/uludag/93nwbpf7a5/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Kırkgözler
+https://live.dgn.net.tr/uludag/4rmxw9t1wp/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Maden
+https://live.dgn.net.tr/uludag/392xsk5f5v/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Cennetkaya
+https://live.dgn.net.tr/uludag/v67u27n1aj/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Kuşaklıkaya
+https://live.dgn.net.tr/uludag/4nppvsantj/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Fahri Telesiyej
+https://live.dgn.net.tr/uludag/bpvt498s5h/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", Tutyeli
+https://live.dgn.net.tr/uludag/v7mx2ab9u5/playlist.m3u8
+#EXTINF:-1 group-title="Tatilsepeti - Uludağ" tvg-logo="https://i.imgur.com/emXIlFm.png", İtalyan Pisti
+https://live.dgn.net.tr/uludag/hwp21h2py4/playlist.m3u8
