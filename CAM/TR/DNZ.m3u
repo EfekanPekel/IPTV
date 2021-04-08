@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", Bağbaşı Yaylası - Bungalov Evler
+http://212.175.207.19:1935/canliyayin/dbbYayla.stream/chunklist_w1835199931.m3u8
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", Kayak Merkezi - Genel Görünüm
+http://212.175.207.19:1935/canliyayin/dbbBozdag.stream/chunklist_w838008801.m3u8
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", Kayak Merkezi - Genel Görünüm
+http://212.175.207.19:1935/canliyayin/dbbBozdag2.stream/chunklist_w1744527414.m3u8
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", Kayak Merkezi - Üst
+http://212.175.207.19:1935/canliyayin/dbbBozdagUst.stream/chunklist_w1568135186.m3u8
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", 15 Temmuz Delikliçınar Şehitler Meydanı
+http://212.175.207.19:1935/canliyayin/dbbBelediye2.stream/chunklist_w1394369504.m3u8
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", 16 Temmuz Delikliçınar Şehitler Meydanı
+http://212.175.207.19:1935/canliyayin/dbbBelediye1.stream/chunklist_w1834816967.m3u8
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", Laodikeia
+http://212.175.207.19:1935/canliyayin/dbbLaodikya.stream/chunklist_w654252062.m3u8
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", Adalet Parkı
+http://212.175.207.19:1935/canliyayin/dbbAdaletPark.stream/chunklist_w1075779253.m3u8
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", Üçgen Meydanı
+http://212.175.207.19:1935/canliyayin/dbbOtogar.stream/chunklist_w26034047.m3u8
+#EXTINF:-1 group-title="Denizli Büyükşehir Belediyesi" tvg-logo="https://i.imgur.com/JQ3xPOo.png", Bayramyeri Meydanı
+http://212.175.207.19:1935/canliyayin/dbbBayramyeri.stream/chunklist_w905820056.m3u8
