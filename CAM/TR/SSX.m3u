@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Ahıska Park
+http://195.175.57.150:1935/Canik_Belediyesi/Ah%C4%B1skaPARK.stream/chunklist_w1597226079.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Ahıska Park - Park
+http://195.175.57.150:1935/Canik_Belediyesi/AhıskaPARK.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Akıncılar Park - Park
+http://195.175.57.150:1935/Canik_Belediyesi/AKINCILARPARK.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Akıncılar Parkı
+http://195.175.57.150:1935/Canik_Belediyesi/AKINCILARPARK.stream/chunklist_w796987171.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Armağan Park
+http://195.175.57.150:1935/Canik_Belediyesi/armaganpark.stream/chunklist_w1630492569.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Armağan PARK - Park
+http://195.175.57.150:1935/Canik_Belediyesi/armaganpark.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Belediye Binası - 2
+http://195.175.57.150:1935/Canik_Belediyesi/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Belediye Binası - Cep Telefonu Test
+http://195.175.57.150:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Belediye Evleri Mevlana Parkı - Kamera 1
+http://195.175.57.150:1935/Canik_Belediyesi/MevlanaPARK.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Çırağan Giriş
+http://195.175.57.150:1935/Canik_Belediyesi/CKMciragankapi.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Danışma
+http://195.175.57.150:1935/Canik_Belediyesi/CKMDanisma.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Giris Kapı
+http://195.175.57.150:1935/Canik_Belediyesi/CKMKAPI1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Giriş Kapı 2
+http://195.175.57.150:1935/Canik_Belediyesi/CKMkapısag.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Kantin
+http://195.175.57.150:1935/Canik_Belediyesi/CKMKANTIN.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Konferans Salonu Giriş
+http://195.175.57.150:1935/Canik_Belediyesi/CKMkonfrgiris.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Nikah Salonu
+http://195.175.57.150:1935/Canik_Belediyesi/NikahSalonu.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Ön Giriş
+http://195.175.57.150:1935/Canik_Belediyesi/CKMongiris.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Sinema Salonları
+http://195.175.57.150:1935/Canik_Belediyesi/CKMSalonlar.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Yan Kapı
+http://195.175.57.150:1935/Canik_Belediyesi/CKMYANKAP1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Canik Kültür Merkezi - Yan Kapı2
+http://195.175.57.150:1935/Canik_Belediyesi/CKMYANKAPI2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", CKM Ayışığı Parkı - Kamera 1
+http://195.175.57.150:1935/Canik_Belediyesi/CKMAYISIGI.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", CKM Ayışığı Parkı - Kamera 2
+http://195.175.57.150:1935/Canik_Belediyesi/CKMAYISIGI2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", CKM Ayışığı Parkı - Kamera 3
+http://195.175.57.150:1935/Canik_Belediyesi/CKMAYISIGI3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", CKM Ayışığı Parkı - Kamera 4
+http://195.175.57.150:1935/Canik_Belediyesi/CKMAYISIGI4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Engelsiz Cafe - Park
+http://195.175.57.150:1935/Canik_Belediyesi/EngelliPark.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", GOP Halısaha Çocuk Parkı - Kamera 1
+http://195.175.57.150:1935/Canik_Belediyesi/GOPHALISAHA1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", GOP Halısaha Çocuk Parkı - Kamera 2
+http://195.175.57.150:1935/Canik_Belediyesi/GOPHALISAHA2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", GOP Halısaha Çocuk Parkı - Kamera 3
+http://195.175.57.150:1935/Canik_Belediyesi/GOPHALISAHA3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", GOP Halısaha Çocuk Parkı - Kamera 4
+http://195.175.57.150:1935/Canik_Belediyesi/GOPHALISAHA4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Gürel Sokak Parkı - Park
+http://195.175.57.150:1935/Canik_Belediyesi/GurelsokakPARK.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hacı İsmail Bilgievi Parkı - Kamera 1
+http://195.175.57.150:1935/Canik_Belediyesi/HACISMAILPARK.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hacı İsmail Bilgievi Parkı - Kamera 2
+http://195.175.57.150:1935/Canik_Belediyesi/HACIISMAILPARK2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hasan Doğan Spor Salonu - Çocuk Parkı
+http://195.175.57.150:1935/Canik_Belediyesi/HSDOGANPARK.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hasan Doğan Spor Salonu - Çocuk Parkı 2
+http://195.175.57.150:1935/Canik_Belediyesi/HDOGANPARK2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hasan Doğan Spor Salonu - Halı saha
+http://195.175.57.150:1935/Canik_Belediyesi/HSDOGANHALISAHA.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hasan Doğan Spor Salonu - Kafe
+http://195.175.57.150:1935/Canik_Belediyesi/HASANDOGANCAFE.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hasan Doğan Spor Salonu - Salon 2
+http://195.175.57.150:1935/Canik_Belediyesi/HDOGANSLN2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hasan Doğan Spor Salonu - Salon1
+http://195.175.57.150:1935/Canik_Belediyesi/HDOGANSLN1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hatice Hanım Konağı Parkı - Kamera 1
+http://195.175.57.150:1935/Canik_Belediyesi/HaticeHnmKonPark.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hekimhan Sokak Parkı
+http://195.175.57.150:1935/Canik_Belediyesi/HEKIMOGLUPark.stream/chunklist_w1340076636.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hekimhan Sokak Parkı
+http://195.175.57.150:1935/Canik_Belediyesi/HEKIMOGLUPark2.stream/chunklist_w1100606726.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hekimhan Sokak Parkı - Kamera 1
+http://195.175.57.150:1935/Canik_Belediyesi/HEKIMOGLUPark.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Hekimhan Sokak Parkı - Kamera 2
+http://195.175.57.150:1935/Canik_Belediyesi/HEKIMOGLUPark2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Mevlana Yaşam Merkezi - Gençlik Merkezi Önü
+http://195.175.57.150:1935/Canik_Belediyesi/MevlanaGenclikMerk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Mevlana Yaşam Merkezi - Kamelya
+http://195.175.57.150:1935/Canik_Belediyesi/MevlanaKamelya.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Mevlana Yaşam Merkezi - Oyuncak Muzesi Önü
+http://195.175.57.150:1935/Canik_Belediyesi/MEVLANAOYUNMUZEONU.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Muhsin Yazıcıoğlu Kültür Merkezi - Alt kat dış kapı
+http://195.175.57.150:1935/Canik_Belediyesi/MUHSINYAZCALTKATDIS2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Muhsin Yazıcıoğlu Kültür Merkezi - Alt Kat dış kapı
+http://195.175.57.150:1935/Canik_Belediyesi/MUHSINYAZCALTKATDIS.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Muhsin Yazıcıoğlu Kültür Merkezi - Park
+http://195.175.57.150:1935/Canik_Belediyesi/MUHSINYAZCpark.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Pasinler Park
+http://195.175.57.150:1935/Canik_Belediyesi/Pasinlerpark.stream/chunklist_w1154664945.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Pasinler Park - Park
+http://195.175.57.150:1935/Canik_Belediyesi/Pasinlerpark.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Sümeyye Hanım Konağı Parkı - Kamera 1
+http://195.175.57.150:1935/Canik_Belediyesi/Sumeyyehanimkonagi.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Sümeyye Hanım Konağı Parkı - kamera 2
+http://195.175.57.150:1935/Canik_Belediyesi/Sumeyyehanimkonagi2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Toptepe Erenler Parkı
+http://195.175.57.150:1935/Canik_Belediyesi/ERENLERPARK.stream/chunklist_w887981466.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Toptepe Erenler Parkı - Erenler Park
+http://195.175.57.150:1935/Canik_Belediyesi/ERENLERPARK.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Zübeyde Hanım Çocuk Parkı - Kamera 2
+http://195.175.57.150:1935/Canik_Belediyesi/ZUBEYDEHANIMpark2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Zübeyde Hanım Çocuk Parkı - Kamera 3
+http://195.175.57.150:1935/Canik_Belediyesi/ZUBEYDEHANIM3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Canik Belediyesi" tvg-logo="https://i.imgur.com/Nd3INRz.png", Zübeyde Hanım Çocuk Parkı - Park
+http://195.175.57.150:1935/Canik_Belediyesi/ZUBEYDEHANIMpark.stream/playlist.m3u8
+#EXTINF:-1 group-title="Havza Belediyesi" tvg-logo="https://i.imgur.com/L9JihHC.png", Havza
+mms://88.250.200.142:1375
