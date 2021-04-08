@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Niğde Belediyesi" tvg-logo="https://i.imgur.com/Nw4NpC5.png", Çarşı 1
+https://edge1.socialsmart.tv/nigdebelediyesi/cam1/chunks.m3u8
+#EXTINF:-1 group-title="Niğde Belediyesi" tvg-logo="https://i.imgur.com/Nw4NpC5.png", Çarşı 2
+https://edge1.socialsmart.tv/nigdebelediyesi/cam2/chunks.m3u8
+#EXTINF:-1 group-title="Niğde Belediyesi" tvg-logo="https://i.imgur.com/Nw4NpC5.png", Özbelde Millet Bahçesi
+https://edge1.socialsmart.tv/nigdebelediyesi/cam3/chunks.m3u8
