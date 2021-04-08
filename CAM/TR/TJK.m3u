@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Tokat Belediyesi" tvg-logo="https://i.imgur.com/G3Fe4qW.png", Cumhuriyet Meydanı
+http://212.156.98.150:1936/Kamera/Meydan.stream/playlist.m3u8
+#EXTINF:-1 group-title="Tokat Belediyesi" tvg-logo="https://i.imgur.com/G3Fe4qW.png", Stadyum Önü
+http://212.156.98.150:1936/Kamera/Stadyum.stream/playlist.m3u8
+#EXTINF:-1 group-title="Tokat Belediyesi" tvg-logo="https://i.imgur.com/G3Fe4qW.png", Tokat Kalesi
+http://212.156.98.150:1936/Kamera/Kale.stream/playlist.m3u8
