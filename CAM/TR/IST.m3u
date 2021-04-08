@@ -1,0 +1,955 @@
+#EXTM3U
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Cumhuriyet Meydanı
+http://player.sehirkameralari.com/live/5cde7e0bc9895/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Çardaktepe Yolu
+http://player.sehirkameralari.com/live/5cda91f4ea826/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Hadımköy - Beylikdüzü Yolu
+http://player.sehirkameralari.com/live/5cda95b33c0ce/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Hadımköy Giriş
+http://player.sehirkameralari.com/live/5cda93a0ebb44/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Hadımköy Meydan
+http://player.sehirkameralari.com/live/53ba843090cb2/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Haraççı - Hadımköy Yolu
+http://player.sehirkameralari.com/live/55155f6b9bf96/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Havalimani Yolu
+http://player.sehirkameralari.com/live/5cda9281a0328/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Hobi Bahçesi
+http://player.sehirkameralari.com/live/537dbe7712c8a/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", İmrahor Meydan
+http://player.sehirkameralari.com/live/559a521858ba1/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Merkez İlköğretim Okulu Önü
+http://player.sehirkameralari.com/live/5cde7d20c80e3/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Nikah Salonu
+http://player.sehirkameralari.com/live/5ea7f9824a6cd/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Taşoluk Meydan
+http://player.sehirkameralari.com/live/537dd55fb681f/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Taşoluk Yeşil Camii
+http://player.sehirkameralari.com/live/577230d0879a2/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Trafik Eğitim Parkı
+http://player.sehirkameralari.com/live/54afcf2dd5116/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Vadipark Giriş
+http://player.sehirkameralari.com/live/5c18ccbea8348/playlist.m3u8?token=
+#EXTINF:-1 group-title="Arnavutköy Belediyesi" tvg-logo="https://i.imgur.com/39NPD0c.png", Yönetim Merkezi Otoparkı
+http://player.sehirkameralari.com/live/5c1d0109bed57/playlist.m3u8?token=
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Akşemsettin Parkı
+https://eyup4.taliavision.com/livestream/hls/aksemsettin1/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Akşemsettin Parkı
+https://eyup4.taliavision.com/livestream/hls/aksemsettin2/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Arifpaşa Parkı
+https://eyup.taliavision.com//livestream/hls/arifpasa1/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Arifpaşa Parkı
+https://eyup.taliavision.com//livestream/hls/arifpasa2/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Bir Nefes Parkı
+https://eyup2.taliavision.com/livestream/hls/birnefes1/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Bir Nefes Parkı
+https://eyup2.taliavision.com/livestream/hls/birnefes2/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Dügmeciler Parkı
+https://eyup.taliavision.com//livestream/hls/dugmeciler/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Emniyettepe Parkı
+https://eyup2.taliavision.com/livestream/hls/emniyettepe1/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Emniyettepe Parkı
+https://eyup2.taliavision.com/livestream/hls/emniyettepe2/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Erdemliler Parkı
+https://eyup4.taliavision.com/livestream/hls/erdemliler1/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Erdemliler Parkı
+https://eyup4.taliavision.com/livestream/hls/erdemliler2/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Güzeltepe Parkı
+https://eyup3.taliavision.com/livestream/hls/guzeltepe1/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Güzeltepe Parkı
+https://eyup3.taliavision.com/livestream/hls/guzeltepe2/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Hz. Halit Parkı
+https://eyup.taliavision.com/livestream/hls/hzhalit1/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Hz. Halit Parkı
+https://eyup.taliavision.com/livestream/hls/hzhalit2/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Hz. Halit Parkı
+https://eyup.taliavision.com/livestream/hls/hzhalit3/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Özgecan Aslan Parkı
+https://eyup3.taliavision.com/livestream/hls/ozgecan1/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Özgecan Aslan Parkı
+https://eyup3.taliavision.com/livestream/hls/ozgecan2/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Yağlıdere Parkı
+https://eyup2.taliavision.com/livestream/hls/yaglidere1/index.m3u8
+#EXTINF:-1 group-title="Eyüpsultan Belediyesi - Parklar" tvg-logo="https://i.imgur.com/kGUU9fO.png", Yağlıdere Parkı
+https://eyup2.taliavision.com/livestream/hls/yaglidere2/index.m3u8
+#EXTINF:-1 group-title="İBB Şehir Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", Esenler Meydanı
+https://livestream.ibb.gov.tr/cam_sehir/cam_esenler_meydan.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Şehir Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", Sultanbeyli
+https://livestream.ibb.gov.tr/cam_sehir/cam_sultanbeyli_meydan.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Şehir Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", Üsküdar
+https://livestream.ibb.gov.tr/cam_sehir/cam_uskudar.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Şehir Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", Küçükçekmece
+https://livestream.ibb.gov.tr/cam_sehir/cam_kucukcekmece.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Şehir Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", Ortaköy
+https://livestream.ibb.gov.tr/cam_sehir/cam_ortakoy.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Anadolu Hisarı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_anadolu_hisari.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Bağdat Caddesi 1
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Bağdat Caddesi 2
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_bagdat_cad_2.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Beyazıt Kulesi 1
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Beyazıt Meydanı
+https://livestream.ibb.gov.tr/cam_turistik/cam_beyazit_meydan.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Büyük Çamlıca
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_buyuk_camlica.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Dragos
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_dragos.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Eminönü
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eminonu.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Emirgan
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_emirgan.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Eyüp Sultan
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Hidiv Kasrı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_hidiv_kasri_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", İstiklal Caddesi 1
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", İstiklal Caddesi 2
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_istiklal_cad_2.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Kadıköy
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kadikoy.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Karaköy
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_karakoy.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Kız Kulesi
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kiz_kulesi_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Küçük Çamlıca
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_kucuk_camlica.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Metrohan
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_metrohan.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Mısır Çarşısı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_misir_carsisi.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Miniatürk
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_miniaturk.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Pierre Loti
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_pierloti.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Salacak
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_salacak.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Saraçhane
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sarachane.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Sepetçiler Kasrı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sepetciler_kasri.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Sultanahmet 1
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_1.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Sultanahmet 2
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_sultanahmet_2.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Taksim
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_taksim.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Turistik Kameralar" tvg-logo="https://i.imgur.com/G3mIRdT.png", Ulus Parkı
+https://livestream.ibb.gov.tr/cam_turistik/cam_trsk_ulus_parki.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Hayvan Bakımevi Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", Cebeci Hayvan Bakımevi
+https://livestream.ibb.gov.tr/cam_tesis/cam_cebeci_hayvan_barinagi.stream/playlist.m3u8
+#EXTINF:-1 group-title="Nef" tvg-logo="https://i.imgur.com/Lwdrwr9.png", Bahçelievler
+https://usd.nocvp.com/asset/7QPRNF9u/chunklist.m3u8
+#EXTINF:-1 group-title="Nef" tvg-logo="https://i.imgur.com/Lwdrwr9.png", Basın Express
+https://usd.nocvp.com/asset/838swXgq/chunklist.m3u8
+#EXTINF:-1 group-title="Torkam E5" tvg-logo="https://i.imgur.com/fo5esCT.png", Şantiye
+https://usd.nocvp.com/asset/88DeMNJ1/playlist.m3u8
+#EXTINF:-1 group-title="Torkam 35" tvg-logo="https://i.imgur.com/fo5esCT.png", Şantiye
+https://usd.nocvp.com/asset/82iVjzcf/chunklist.m3u8
+#EXTINF:-1 group-title="İBB Şehir Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ACIBADEM SARAYARDI CD.
+https://ibb-media4.ibb.gov.tr/hls/1.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", AKOM
+https://ibb-media4.ibb.gov.tr/hls/2.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", AKSARAY
+https://ibb-media4.ibb.gov.tr/hls/3.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ALİBEYKÖY MEYDANI
+https://ibb-media4.ibb.gov.tr/hls/4.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ALTUNİZADE TÜNEL 1
+https://ibb-media4.ibb.gov.tr/hls/6.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ALTUNİZADE TÜNEL
+https://ibb-media4.ibb.gov.tr/hls/5.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU ATAKÖY 1
+https://ibb-media4.ibb.gov.tr/hls/8.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU ATAKÖY 2
+https://ibb-media4.ibb.gov.tr/hls/9.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ATAKÖY 9. KISIM
+https://ibb-media4.ibb.gov.tr/hls/10.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU GALERİA
+https://ibb-media4.ibb.gov.tr/hls/12.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ATATÜRK HAVALİMANI
+https://ibb-media4.ibb.gov.tr/hls/13.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", AYVANSARAY
+https://ibb-media4.ibb.gov.tr/hls/14.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞDAT CD. ETHEM EFENDİ
+https://ibb-media4.ibb.gov.tr/hls/17.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞDAT CD. GÖZTEPE
+https://ibb-media4.ibb.gov.tr/hls/19.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞDAT CD. ŞAŞKINBAKKAL
+https://ibb-media4.ibb.gov.tr/hls/20.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞ. YOLU BAHÇEŞEHİR
+https://ibb-media4.ibb.gov.tr/hls/21.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞLARBAŞI
+https://ibb-media4.ibb.gov.tr/hls/25.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BALTALİMANI ÇAYIR CD.
+https://ibb-media4.ibb.gov.tr/hls/28.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAR. BUL. YILDIZ
+https://ibb-media4.ibb.gov.tr/hls/31.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BASIN EKSP. GÜNEŞLİ
+https://ibb-media4.ibb.gov.tr/hls/33.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BASIN EKSP. İKİTELLİ
+https://ibb-media4.ibb.gov.tr/hls/34.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BASIN EKSP. KUYUMCUKENT
+https://ibb-media4.ibb.gov.tr/hls/36.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BASIN EKSP. SEFAKÖY
+https://ibb-media4.ibb.gov.tr/hls/37.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAŞAKŞEHİR GARANTİ
+https://ibb-media4.ibb.gov.tr/hls/38.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞ. YOLU YILDIRIM
+https://ibb-media4.ibb.gov.tr/hls/41.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BEŞİKTAŞ MEYDANI
+https://ibb-media4.ibb.gov.tr/hls/43.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", EYÜP FESHANE
+https://ibb-media4.ibb.gov.tr/hls/45.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAR.BUL. ESENTEPE 1
+https://ibb-media2.ibb.gov.tr/hls/594.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BOSTANCI LUNAPARK
+https://ibb-media4.ibb.gov.tr/hls/47.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", B.DERE CD. LEVENT
+https://ibb-media4.ibb.gov.tr/hls/49.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", B.DERE CD. GAZETECİLER
+https://ibb-media4.ibb.gov.tr/hls/51.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", B.DERE CD. GÜLTEPE
+https://ibb-media4.ibb.gov.tr/hls/52.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", B.DERE CD. KANYON
+https://ibb-media4.ibb.gov.tr/hls/57.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", B.DERE CD. MASLAK
+https://ibb-media4.ibb.gov.tr/hls/58.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", B.DERE CD. SANAYİ
+https://ibb-media4.ibb.gov.tr/hls/60.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", MİLLET CD. ÇAPA
+https://ibb-media4.ibb.gov.tr/hls/64.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 ACIBADEM
+https://ibb-media4.ibb.gov.tr/hls/66.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 ALTUNİZADE
+https://ibb-media4.ibb.gov.tr/hls/68.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 ANITMEZAR
+https://ibb-media4.ibb.gov.tr/hls/69.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 AVCILAR
+https://ibb-media4.ibb.gov.tr/hls/72.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 AVCILAR HACIŞERİF
+https://ibb-media4.ibb.gov.tr/hls/73.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 AVCILAR PARSELLER
+https://ibb-media4.ibb.gov.tr/hls/75.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 B.CEKMECE AYMERKEZ
+https://ibb-media4.ibb.gov.tr/hls/76.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 HADIMKÖY
+https://ibb-media4.ibb.gov.tr/hls/78.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 15 TEMMUZ ŞEHİTLER KÖP. ANADOLU
+https://ibb-media4.ibb.gov.tr/hls/79.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 15 TEMMUZ ŞEHİTLER KÖP. AVRUPA
+https://ibb-media4.ibb.gov.tr/hls/81.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 BOSTANCI
+https://ibb-media4.ibb.gov.tr/hls/84.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 BÜYÜKÇEKMECE
+https://ibb-media4.ibb.gov.tr/hls/86.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 SOĞANLIK
+https://ibb-media4.ibb.gov.tr/hls/88.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 CEVİZLİBAĞ
+https://ibb-media4.ibb.gov.tr/hls/89.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 ÇAĞLAYAN
+https://ibb-media4.ibb.gov.tr/hls/92.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 Ç.ÇEŞME
+https://ibb-media4.ibb.gov.tr/hls/94.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 DARÜLACEZE
+https://ibb-media4.ibb.gov.tr/hls/97.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 FLORYA
+https://ibb-media4.ibb.gov.tr/hls/99.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 GÖZTEPE
+https://ibb-media4.ibb.gov.tr/hls/101.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 GULSUYU
+https://ibb-media4.ibb.gov.tr/hls/102.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 GÜZELYALI
+https://ibb-media4.ibb.gov.tr/hls/108.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 HALİÇ HALICIOĞLU
+https://ibb-media4.ibb.gov.tr/hls/109.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 HARAMİDERE
+https://ibb-media4.ibb.gov.tr/hls/112.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU HAREM IDO
+https://ibb-media4.ibb.gov.tr/hls/114.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 H. TEPESİ
+https://ibb-media4.ibb.gov.tr/hls/115.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 İNCİRLİ
+https://ibb-media4.ibb.gov.tr/hls/117.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 SEFAKÖY
+https://ibb-media4.ibb.gov.tr/hls/120.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 SEFAKÖY 1
+https://ibb-media4.ibb.gov.tr/hls/121.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100  AHL
+https://ibb-media4.ibb.gov.tr/hls/122.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 KARTAL
+https://ibb-media4.ibb.gov.tr/hls/124.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KOŞUYOLU
+https://ibb-media4.ibb.gov.tr/hls/130.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 KOZYATAĞI KAV
+https://ibb-media4.ibb.gov.tr/hls/131.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 K.ÇEKMECE KAV.
+https://ibb-media4.ibb.gov.tr/hls/134.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 KÜÇÜKYALI
+https://ibb-media4.ibb.gov.tr/hls/136.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 MALTEPE
+https://ibb-media4.ibb.gov.tr/hls/138.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 MECİDİYEKÖY
+https://ibb-media4.ibb.gov.tr/hls/140.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 MERTER DMS
+https://ibb-media4.ibb.gov.tr/hls/145.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 OKMEYDANI
+https://ibb-media4.ibb.gov.tr/hls/147.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 PENDİK
+https://ibb-media4.ibb.gov.tr/hls/149.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 PENDİK TERSANE
+https://ibb-media1.ibb.gov.tr/hls/151.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 S RAMPASI 1
+https://ibb-media1.ibb.gov.tr/hls/153.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 S RAMPASI 2
+https://ibb-media1.ibb.gov.tr/hls/154.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 SAADETDERE
+https://ibb-media1.ibb.gov.tr/hls/155.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 SELİMPAŞA
+https://ibb-media1.ibb.gov.tr/hls/156.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 SİLİVRİ 3
+https://ibb-media1.ibb.gov.tr/hls/159.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 ŞİRİNEVLER
+https://ibb-media1.ibb.gov.tr/hls/161.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 ŞİRİNEVLER 1
+https://ibb-media1.ibb.gov.tr/hls/162.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 TOPKAPI 1
+https://ibb-media1.ibb.gov.tr/hls/165.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 TOPKAPI
+https://ibb-media1.ibb.gov.tr/hls/164.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 TUZLA
+https://ibb-media1.ibb.gov.tr/hls/166.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 UZUNÇAYIR KAV.
+https://ibb-media1.ibb.gov.tr/hls/167.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 BEYLİKDÜZÜ
+https://ibb-media1.ibb.gov.tr/hls/168.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", DAVUTPAŞA
+https://ibb-media1.ibb.gov.tr/hls/171.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", DOLAPDERE
+https://ibb-media1.ibb.gov.tr/hls/172.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D.BAHÇE TAKSİM ÇIKIŞ
+https://ibb-media1.ibb.gov.tr/hls/173.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D.BAHÇE TAKSİM İNİŞ
+https://ibb-media1.ibb.gov.tr/hls/174.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", EDİRNEKAPI
+https://ibb-media1.ibb.gov.tr/hls/177.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", EMİNÖNÜ YENİ CAMİ
+https://ibb-media1.ibb.gov.tr/hls/181.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ETİLER
+https://ibb-media1.ibb.gov.tr/hls/183.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU EYÜP
+https://ibb-media1.ibb.gov.tr/hls/184.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", FATİH
+https://ibb-media1.ibb.gov.tr/hls/185.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", FINDIKLI
+https://ibb-media1.ibb.gov.tr/hls/186.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", FINDIKZADE
+https://ibb-media1.ibb.gov.tr/hls/188.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", GÜMÜŞSUYU
+https://ibb-media1.ibb.gov.tr/hls/193.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", HARBİYE
+https://ibb-media1.ibb.gov.tr/hls/194.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", HAZNEDAR
+https://ibb-media1.ibb.gov.tr/hls/195.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", İKİTELLİ KÖPRÜLÜ KAV.
+https://ibb-media1.ibb.gov.tr/hls/196.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 21038 BORSA ISTANBUL
+https://ibb-media1.ibb.gov.tr/hls/197.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KADIKÖY BAHARIYE CAD
+https://ibb-media1.ibb.gov.tr/hls/199.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KADIKÖY EVLENDİRME D.
+https://ibb-media1.ibb.gov.tr/hls/200.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KADIKÖY RIHTIM
+https://ibb-media1.ibb.gov.tr/hls/201.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KAĞITHANE
+https://ibb-media1.ibb.gov.tr/hls/202.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KARAKÖY
+https://ibb-media1.ibb.gov.tr/hls/204.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAG.YOLU UGUR MUMCU
+https://ibb-media1.ibb.gov.tr/hls/205.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞ.YOLU SOĞANLIK
+https://ibb-media1.ibb.gov.tr/hls/207.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", K.PAŞA BAHRİYE CD.
+https://ibb-media1.ibb.gov.tr/hls/208.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", K.PAŞA DENİZ KOM.
+https://ibb-media1.ibb.gov.tr/hls/209.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KAVACIK GÖKSU
+https://ibb-media1.ibb.gov.tr/hls/210.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KAVACIK MEYDANI
+https://ibb-media1.ibb.gov.tr/hls/211.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KISIKLI MEYDANI
+https://ibb-media1.ibb.gov.tr/hls/213.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KIZ KULESİ
+https://ibb-media1.ibb.gov.tr/hls/214.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KOZYATAĞI İNÖNÜ CD.
+https://ibb-media1.ibb.gov.tr/hls/217.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", LİBADİYE
+https://ibb-media1.ibb.gov.tr/hls/220.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", MECİDİYEKÖY 1
+https://ibb-media1.ibb.gov.tr/hls/222.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", MİN. YOLU SAHRAYICEDİD
+https://ibb-media1.ibb.gov.tr/hls/224.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", MİN. YOLU KUYUBAŞI
+https://ibb-media1.ibb.gov.tr/hls/225.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", MİN. YOLU SUADİYE
+https://ibb-media1.ibb.gov.tr/hls/226.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", O-3 ATIŞALANI
+https://ibb-media1.ibb.gov.tr/hls/227.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", O-3 BAYRAMPAŞA
+https://ibb-media1.ibb.gov.tr/hls/228.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", O-3 BAYRAMPAŞA 1
+https://ibb-media1.ibb.gov.tr/hls/229.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", O-3 HAL
+https://ibb-media1.ibb.gov.tr/hls/230.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", O-3 YÜZYIL KÖP.
+https://ibb-media1.ibb.gov.tr/hls/233.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ORTAKÖY
+https://ibb-media1.ibb.gov.tr/hls/238.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞ.YOLU HARMANDERE
+https://ibb-media1.ibb.gov.tr/hls/242.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞ.YOLU AYDINLI
+https://ibb-media1.ibb.gov.tr/hls/243.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", PİYALEPAŞA BUL. 1
+https://ibb-media1.ibb.gov.tr/hls/247.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", PİYALEPAŞA BUL. 2
+https://ibb-media1.ibb.gov.tr/hls/248.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", PİYALEPAŞA BUL. 3
+https://ibb-media1.ibb.gov.tr/hls/249.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", PİYALEPAŞA BUL. 4
+https://ibb-media1.ibb.gov.tr/hls/250.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", RAMİ
+https://ibb-media1.ibb.gov.tr/hls/251.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", SABİHA GÖKÇEN HL.
+https://ibb-media1.ibb.gov.tr/hls/253.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU EMİNÖNÜ SOS.TES.
+https://ibb-media1.ibb.gov.tr/hls/254.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU ZEYTİNBURNU 1
+https://ibb-media1.ibb.gov.tr/hls/255.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU ARNAVUTKÖY
+https://ibb-media1.ibb.gov.tr/hls/257.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU BAKIRKÖY
+https://ibb-media1.ibb.gov.tr/hls/258.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU BOSTANCI
+https://ibb-media1.ibb.gov.tr/hls/260.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU ÇAYIRBAŞI
+https://ibb-media1.ibb.gov.tr/hls/262.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU DRAGOS
+https://ibb-media1.ibb.gov.tr/hls/263.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU İSTİNYE
+https://ibb-media1.ibb.gov.tr/hls/265.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S.YOLU PENDİK 2
+https://ibb-media1.ibb.gov.tr/hls/267.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU AŞİYAN
+https://ibb-media1.ibb.gov.tr/hls/268.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU SAMATYA 1
+https://ibb-media1.ibb.gov.tr/hls/269.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU SAMATYA 2
+https://ibb-media1.ibb.gov.tr/hls/270.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU SÜREYYAPAŞA
+https://ibb-media1.ibb.gov.tr/hls/272.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU YEDİKULE
+https://ibb-media1.ibb.gov.tr/hls/273.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU YENİKAPI
+https://ibb-media1.ibb.gov.tr/hls/274.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", SARAÇHANE İBB
+https://ibb-media1.ibb.gov.tr/hls/278.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", SARIGAZİ
+https://ibb-media1.ibb.gov.tr/hls/279.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", SİLİVRİ CEZAEVİ
+https://ibb-media1.ibb.gov.tr/hls/281.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU SİRKECİ
+https://ibb-media1.ibb.gov.tr/hls/282.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", Ş.SARAÇOĞLU
+https://ibb-media1.ibb.gov.tr/hls/283.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S.ÇİFTLİĞİ MALKOÇOĞLU
+https://ibb-media1.ibb.gov.tr/hls/286.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ŞİLE YOLU ÇAMLIK
+https://ibb-media1.ibb.gov.tr/hls/289.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ŞİLE YOLU TEPEÜSTÜ
+https://ibb-media1.ibb.gov.tr/hls/292.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TAKSİM MEYDANI
+https://ibb-media1.ibb.gov.tr/hls/297.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM AHMEDİYE
+https://ibb-media1.ibb.gov.tr/hls/301.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM AKŞEMSETTİN
+https://ibb-media1.ibb.gov.tr/hls/302.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ALTINŞEHİR 1
+https://ibb-media1.ibb.gov.tr/hls/304.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ALTINŞEHİR 2
+https://ibb-media1.ibb.gov.tr/hls/305.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ATAŞEHİR
+https://ibb-media1.ibb.gov.tr/hls/306.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM AYDINLI
+https://ibb-media1.ibb.gov.tr/hls/309.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM BAHÇEŞEHİR
+https://ibb-media1.ibb.gov.tr/hls/310.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM BAHÇEŞEHİR 1
+https://ibb-media1.ibb.gov.tr/hls/311.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM BÜYÜKÇEKMECE 1
+https://ibb-media1.ibb.gov.tr/hls/312.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM BÜYÜKÇEKMECE 2
+https://ibb-media1.ibb.gov.tr/hls/313.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM BÜYÜKÇEKMECE 3
+https://ibb-media1.ibb.gov.tr/hls/314.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM BÜYÜKÇEKMECE 4
+https://ibb-media1.ibb.gov.tr/hls/315.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM CELALİYE 1
+https://ibb-media1.ibb.gov.tr/hls/316.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM CELALİYE 2
+https://ibb-media1.ibb.gov.tr/hls/317.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM CELALİYE 3
+https://ibb-media1.ibb.gov.tr/hls/318.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ÇAKMAK KÖP.
+https://ibb-media1.ibb.gov.tr/hls/319.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ÇAMLICA GİŞ.
+https://ibb-media1.ibb.gov.tr/hls/321.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ÇANTA
+https://ibb-media1.ibb.gov.tr/hls/323.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ÇAVUŞBAŞI
+https://ibb-media1.ibb.gov.tr/hls/327.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM DUDULLU
+https://ibb-media1.ibb.gov.tr/hls/331.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM DUDULLU KAV.
+https://ibb-media1.ibb.gov.tr/hls/332.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ELMALI
+https://ibb-media1.ibb.gov.tr/hls/333.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ESENYURT 1
+https://ibb-media1.ibb.gov.tr/hls/335.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ESENYURT 2
+https://ibb-media1.ibb.gov.tr/hls/336.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ETİLER KATILIMI
+https://ibb-media1.ibb.gov.tr/hls/338.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM FİRUZKÖY
+https://ibb-media1.ibb.gov.tr/hls/339.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM FİRUZKÖY 1
+https://ibb-media1.ibb.gov.tr/hls/340.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM FSM ANADOLU
+https://ibb-media1.ibb.gov.tr/hls/341.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM FSM AVRUPA
+https://ibb-media1.ibb.gov.tr/hls/344.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM FSM GİŞELER
+https://ibb-media1.ibb.gov.tr/hls/345.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM HALKALI
+https://ibb-media1.ibb.gov.tr/hls/349.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM HALKALI 1
+https://ibb-media1.ibb.gov.tr/hls/350.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM HASDAL
+https://ibb-media2.ibb.gov.tr/hls/351.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM İKİTELLİ MASKO
+https://ibb-media2.ibb.gov.tr/hls/354.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM İSTOÇ
+https://ibb-media2.ibb.gov.tr/hls/356.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM KARAYOLLARI
+https://ibb-media2.ibb.gov.tr/hls/357.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM KAVACIK
+https://ibb-media2.ibb.gov.tr/hls/359.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM KEMERBURGAZ AYRIMI
+https://ibb-media2.ibb.gov.tr/hls/361.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM KURTKÖY
+https://ibb-media2.ibb.gov.tr/hls/364.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM K. BAKKALKÖY
+https://ibb-media2.ibb.gov.tr/hls/365.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞ.YOLU LİBADİYE
+https://ibb-media2.ibb.gov.tr/hls/366.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞ.YOLU M. KEMAL
+https://ibb-media2.ibb.gov.tr/hls/367.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM MAHMUTBEY BATI
+https://ibb-media2.ibb.gov.tr/hls/368.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM MAHMUTBEY DOĞU
+https://ibb-media2.ibb.gov.tr/hls/369.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM MAHMUTBEY DOĞU 1
+https://ibb-media2.ibb.gov.tr/hls/370.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM MASLAK
+https://ibb-media2.ibb.gov.tr/hls/371.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM MASLAK 1
+https://ibb-media2.ibb.gov.tr/hls/373.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM MEH. VAK.
+https://ibb-media2.ibb.gov.tr/hls/375.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM METRİS
+https://ibb-media2.ibb.gov.tr/hls/376.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM S.BEYLİ ÇEŞME
+https://ibb-media2.ibb.gov.tr/hls/381.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM S.BEYLİ HAMİDİYE
+https://ibb-media2.ibb.gov.tr/hls/382.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM SEYRANTEPE
+https://ibb-media2.ibb.gov.tr/hls/386.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM SİLİVRİ 2
+https://ibb-media2.ibb.gov.tr/hls/389.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM SİLİVRİ 1
+https://ibb-media2.ibb.gov.tr/hls/391.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM TEPEKENT
+https://ibb-media2.ibb.gov.tr/hls/393.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ÜMRANİYE
+https://ibb-media2.ibb.gov.tr/hls/394.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TOPKAPI
+https://ibb-media2.ibb.gov.tr/hls/397.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", VATAN CD. İGDAŞ
+https://ibb-media2.ibb.gov.tr/hls/398.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", UNKAPANI
+https://ibb-media2.ibb.gov.tr/hls/399.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ATATÜRK KÖPRÜSÜ
+https://ibb-media2.ibb.gov.tr/hls/400.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ÜMRANİYE  KÜÇÜKSU
+https://ibb-media2.ibb.gov.tr/hls/401.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ÜMRANİYE BOSNA BUL.
+https://ibb-media2.ibb.gov.tr/hls/402.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ÜMRANİYE NAMAZGAH
+https://ibb-media2.ibb.gov.tr/hls/403.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ÜSKÜDAR AHMEDİYE
+https://ibb-media2.ibb.gov.tr/hls/404.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ÜSKÜDAR MEYDANI
+https://ibb-media2.ibb.gov.tr/hls/405.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", VATAN CADDESİ
+https://ibb-media2.ibb.gov.tr/hls/406.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S.YOLU KIZILAY
+https://ibb-media2.ibb.gov.tr/hls/408.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", YEŞİLKÖY HAVUZLU KAV.
+https://ibb-media2.ibb.gov.tr/hls/410.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", YEŞİLYURT
+https://ibb-media2.ibb.gov.tr/hls/411.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAĞ. YOLU NURTEPE
+https://ibb-media2.ibb.gov.tr/hls/413.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 AVCILAR GÜMÜŞPALA
+https://ibb-media2.ibb.gov.tr/hls/415.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU BALAT
+https://ibb-media2.ibb.gov.tr/hls/417.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 10. YIL 1
+https://ibb-media2.ibb.gov.tr/hls/419.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 10. YIL 2
+https://ibb-media2.ibb.gov.tr/hls/420.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", SANCAKTEPE
+https://ibb-media2.ibb.gov.tr/hls/421.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 YENİBOSNA
+https://ibb-media2.ibb.gov.tr/hls/423.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 B.EVLER
+https://ibb-media2.ibb.gov.tr/hls/424.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TOZKOPARAN
+https://ibb-media2.ibb.gov.tr/hls/425.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM EMNİYET MAH.
+https://ibb-media2.ibb.gov.tr/hls/426.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM MAHMUTBEY GİŞ.
+https://ibb-media2.ibb.gov.tr/hls/427.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 MERTER
+https://ibb-media4.ibb.gov.tr/hls/143.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 HALİÇ AYVANSARAY
+https://ibb-media4.ibb.gov.tr/hls/148.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 ÇAMLICA
+https://ibb-media4.ibb.gov.tr/hls/93.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 ZİNCİRLİKUYU
+https://ibb-media2.ibb.gov.tr/hls/564.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", FLORYA SOSYAL TESİSLER
+https://ibb-media2.ibb.gov.tr/hls/505.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 25093  BEYLERBEYİ İSKELE
+https://ibb-media2.ibb.gov.tr/hls/455.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 26025  BELGRATKAPI
+https://ibb-media2.ibb.gov.tr/hls/491.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 12430 PAZARTEKKE
+https://ibb-media2.ibb.gov.tr/hls/553.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KANLIKAVAK YOLU
+https://ibb-media2.ibb.gov.tr/hls/570.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 08001 SPOR AKADEMİSİ
+https://ibb-media2.ibb.gov.tr/hls/447.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 34050  KÜÇÜKBAKKALÖY
+https://ibb-media2.ibb.gov.tr/hls/436.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 24085  MODOKO CAMİİ
+https://ibb-media2.ibb.gov.tr/hls/450.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 24007  ATAKENT
+https://ibb-media2.ibb.gov.tr/hls/451.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 3004  ÜMRANİYE ÇEKMEKÖY YOLU
+https://ibb-media2.ibb.gov.tr/hls/433.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 12424 HASEKİ YUSUF PAŞA
+https://ibb-media2.ibb.gov.tr/hls/552.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ÇIRAĞAN CD.
+https://ibb-media2.ibb.gov.tr/hls/560.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 22006 MECIDIYEKOY
+https://ibb-media2.ibb.gov.tr/hls/549.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 KOZYATAĞI
+https://ibb-media2.ibb.gov.tr/hls/476.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 34047  KÜÇÜKBAKKALKÖY
+https://ibb-media2.ibb.gov.tr/hls/452.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KOCASİNAN
+https://ibb-media2.ibb.gov.tr/hls/572.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 14453 KALE HOME CENTER ÖNÜ
+https://ibb-media2.ibb.gov.tr/hls/554.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 11052 EYÜP ZALPAŞA
+https://ibb-media2.ibb.gov.tr/hls/511.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU KUMKAPI
+https://ibb-media2.ibb.gov.tr/hls/573.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ŞİLEYOLU TAŞDELEN
+https://ibb-media2.ibb.gov.tr/hls/483.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 CENNET MAH.
+https://ibb-media2.ibb.gov.tr/hls/561.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D020 HASDAL ARICILAR
+https://ibb-media2.ibb.gov.tr/hls/568.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TERAZİDERE METRO
+https://ibb-media2.ibb.gov.tr/hls/580.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", YEDİKULE
+https://ibb-media2.ibb.gov.tr/hls/581.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM MAHMUTBEY
+https://ibb-media2.ibb.gov.tr/hls/579.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 15070 VALİDEBAĞ
+https://ibb-media2.ibb.gov.tr/hls/435.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", İKİTELLİ ATATÜRK BUL.
+https://ibb-media2.ibb.gov.tr/hls/569.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU K.YALI
+https://ibb-media2.ibb.gov.tr/hls/477.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 B.YALI KAV.
+https://ibb-media2.ibb.gov.tr/hls/475.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 K.ÇEKMECE
+https://ibb-media2.ibb.gov.tr/hls/535.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAŞAKŞEHİR 1.ETAP
+https://ibb-media2.ibb.gov.tr/hls/558.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 14013 MERTER CAMİİ
+https://ibb-media2.ibb.gov.tr/hls/546.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 METROPORT
+https://ibb-media2.ibb.gov.tr/hls/563.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", GÜMRÜK YOLU HALKALI KESİŞİMİ
+https://ibb-media2.ibb.gov.tr/hls/567.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", B.DERE CD. ATATÜRK SAN.
+https://ibb-media2.ibb.gov.tr/hls/557.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM ORHANLI GİŞ.
+https://ibb-media2.ibb.gov.tr/hls/484.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ŞİLEYOLU TANTAVİ
+https://ibb-media2.ibb.gov.tr/hls/482.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", SILE YOLU SERINDERE
+https://ibb-media2.ibb.gov.tr/hls/481.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 24096 IHLAMURKUYU
+https://ibb-media2.ibb.gov.tr/hls/438.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 BAYRAMPAŞA
+https://ibb-media2.ibb.gov.tr/hls/559.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAR.BUL. ESENTEPE
+https://ibb-media4.ibb.gov.tr/hls/46.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", K.ÇEŞME MARMARAY 1
+https://ibb-media2.ibb.gov.tr/hls/583.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", K.ÇEŞME MARMARAY 2
+https://ibb-media2.ibb.gov.tr/hls/584.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ŞİLE YOLU TEPEÜSTÜ MEYDAN
+https://ibb-media2.ibb.gov.tr/hls/587.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 21037 POLİGON MAH.
+https://ibb-media2.ibb.gov.tr/hls/432.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", İSTOÇ ARKA YOL
+https://ibb-media2.ibb.gov.tr/hls/593.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 AMBARLI
+https://ibb-media2.ibb.gov.tr/hls/610.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 AVCILAR CİHANGİR
+https://ibb-media2.ibb.gov.tr/hls/611.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 AVCILAR ŞÜKRÜBEY
+https://ibb-media2.ibb.gov.tr/hls/612.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 B.DÜZÜ CUMHURİYET
+https://ibb-media2.ibb.gov.tr/hls/613.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", SARAÇHANE VEZNECİLER
+https://ibb-media2.ibb.gov.tr/hls/614.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 B.DÜZÜ TÜYAP
+https://ibb-media2.ibb.gov.tr/hls/615.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 ŞEHİTLİK KATILIM
+https://ibb-media2.ibb.gov.tr/hls/616.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 BÜYÜKÇEKMECE 1
+https://ibb-media2.ibb.gov.tr/hls/602.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 05003 EMLAK KONUTLARI
+https://ibb-media2.ibb.gov.tr/hls/608.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 14449 GÜNGOREN MEHMET AKİF
+https://ibb-media2.ibb.gov.tr/hls/624.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM BAYRAMPAŞA AYRIMI
+https://ibb-media2.ibb.gov.tr/hls/630.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 CEVIZLI
+https://ibb-media2.ibb.gov.tr/hls/631.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", O-3 BAYRAMPASA RAMI AYRIMI
+https://ibb-media2.ibb.gov.tr/hls/632.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D020 KIYI EMNIYETI HASDAL KAMPUSU
+https://ibb-media2.ibb.gov.tr/hls/634.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D020 KEMERBURGAZ AYRIMI
+https://ibb-media2.ibb.gov.tr/hls/635.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D020 KARAYOLLARI DENETIM IST.
+https://ibb-media2.ibb.gov.tr/hls/636.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", EDİRNEKAPI TOPKAPI CIKIŞ
+https://ibb-media2.ibb.gov.tr/hls/639.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TOPKAPI 10. YIL GİRİŞ
+https://ibb-media2.ibb.gov.tr/hls/640.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM KUCUKKOY
+https://ibb-media2.ibb.gov.tr/hls/642.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ÇAVUŞBAŞI
+https://ibb-media2.ibb.gov.tr/hls/664.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO REŞADIYE KAV.
+https://ibb-media2.ibb.gov.tr/hls/669.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO İSHAKLI
+https://ibb-media2.ibb.gov.tr/hls/667.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO YSS ANADOLU
+https://ibb-media2.ibb.gov.tr/hls/670.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO FENERTEPE KAV
+https://ibb-media2.ibb.gov.tr/hls/665.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BAG. YOLU KARAYOLLARI
+https://ibb-media2.ibb.gov.tr/hls/644.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 04087 BAĞCILAR MEYDAN
+https://ibb-media2.ibb.gov.tr/hls/659.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 04053 BAĞCILAR FATİH CAD
+https://ibb-media2.ibb.gov.tr/hls/653.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO İKİTELLİ OSB KAV
+https://ibb-media2.ibb.gov.tr/hls/666.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ISTOC
+https://ibb-media2.ibb.gov.tr/hls/668.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 04081 BAĞCILAR YILDIZTEPE
+https://ibb-media2.ibb.gov.tr/hls/655.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 04004 MAHMUTBEY BEŞYOL
+https://ibb-media2.ibb.gov.tr/hls/654.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO POYRAZ
+https://ibb-media2.ibb.gov.tr/hls/671.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO RIVA KAV.
+https://ibb-media2.ibb.gov.tr/hls/673.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO RIVA TIR PARKI
+https://ibb-media2.ibb.gov.tr/hls/674.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO RIVA TUNELI KUZEY
+https://ibb-media2.ibb.gov.tr/hls/675.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO RIVA TUNELI GUNEY
+https://ibb-media2.ibb.gov.tr/hls/676.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO HÜSEYİNLİ KAV.
+https://ibb-media2.ibb.gov.tr/hls/677.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO REŞADIYE SHELL
+https://ibb-media2.ibb.gov.tr/hls/678.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ALEMDAĞ KAV
+https://ibb-media2.ibb.gov.tr/hls/684.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO PAŞAMANDIRA VIYADUK
+https://ibb-media2.ibb.gov.tr/hls/682.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ÇEKMEKÖY
+https://ibb-media2.ibb.gov.tr/hls/683.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ÇAMLIK
+https://ibb-media2.ibb.gov.tr/hls/679.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ÇEKMEKÖY KAV.
+https://ibb-media2.ibb.gov.tr/hls/680.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 04077 BAĞCILAR
+https://ibb-media2.ibb.gov.tr/hls/663.stream/playlist.m3u8;
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 04066 DÜNYA GAZETESİ
+https://ibb-media2.ibb.gov.tr/hls/648.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 04076 YUNUS EMRE KOP.
+https://ibb-media2.ibb.gov.tr/hls/652.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", B.DERE CAD. HARP AKADEMİLERİ
+https://ibb-media2.ibb.gov.tr/hls/685.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ACIBADEM
+https://ibb-media2.ibb.gov.tr/hls/686.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BEYKOZ CUBUKLU ISKELE
+https://ibb-media2.ibb.gov.tr/hls/711.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", FLORYA
+https://ibb-media2.ibb.gov.tr/hls/764.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", MECİDİYEKÖY MEYDAN
+https://ibb-media1.ibb.gov.tr/hls/223.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", ÇEKMEKÖY KIŞLA
+https://ibb-media2.ibb.gov.tr/hls/740.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TEM S.BEYLİ MECİDİYE
+https://ibb-media2.ibb.gov.tr/hls/769.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO YSS AVRUPA
+https://ibb-media2.ibb.gov.tr/hls/768.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO USKUMRUKOY KAV.
+https://ibb-media2.ibb.gov.tr/hls/771.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO PAŞAKÖY KAV.
+https://ibb-media2.ibb.gov.tr/hls/772.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 21070 VADİ İSTANBUL
+https://ibb-media2.ibb.gov.tr/hls/701.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO DEMIRCI
+https://ibb-media2.ibb.gov.tr/hls/819.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO GÜMÜŞDERE
+https://ibb-media2.ibb.gov.tr/hls/822.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ODAYERİ KAV
+https://ibb-media2.ibb.gov.tr/hls/826.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ÇİFTALAN
+https://ibb-media2.ibb.gov.tr/hls/823.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO GÖLET
+https://ibb-media2.ibb.gov.tr/hls/825.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO AGACLI
+https://ibb-media2.ibb.gov.tr/hls/827.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ISIKLAR KAV
+https://ibb-media2.ibb.gov.tr/hls/829.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO ISIKLAR
+https://ibb-media2.ibb.gov.tr/hls/830.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO OTOYOL GISELER
+https://ibb-media2.ibb.gov.tr/hls/831.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO BOGAZKOY
+https://ibb-media2.ibb.gov.tr/hls/832.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO FATİH TERİM STY
+https://ibb-media2.ibb.gov.tr/hls/834.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO KIRKMERDİVEN GÖLETİ
+https://ibb-media2.ibb.gov.tr/hls/824.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO BASAKSEHIR 4. ETAP
+https://ibb-media2.ibb.gov.tr/hls/835.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO PIRINCCI
+https://ibb-media2.ibb.gov.tr/hls/833.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO KOMPOST KAV
+https://ibb-media2.ibb.gov.tr/hls/828.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", YESILYURT HAVA HARPOKULU
+https://ibb-media2.ibb.gov.tr/hls/843.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO S.BEYLI MECIDIYE KAV
+https://ibb-media2.ibb.gov.tr/hls/820.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 TAVSANTEPE
+https://ibb-media2.ibb.gov.tr/hls/480.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D100 GÖZTEPE 1
+https://ibb-media2.ibb.gov.tr/hls/860.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", YAKUPLU LİMAN YOLU
+https://ibb-media2.ibb.gov.tr/hls/862.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO OMERLI TIR PARKI
+https://ibb-media2.ibb.gov.tr/hls/848.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO CEKMEKOY GISELER
+https://ibb-media2.ibb.gov.tr/hls/886.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO EMIRLI
+https://ibb-media2.ibb.gov.tr/hls/887.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S.YOLU KULELİ
+https://ibb-media2.ibb.gov.tr/hls/888.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO HUSEYINLI KOMURLUK 1
+https://ibb-media2.ibb.gov.tr/hls/889.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO HUSEYINLI KOMURLUK 2
+https://ibb-media2.ibb.gov.tr/hls/890.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO HUSEYINLI KOMURLUK 3
+https://ibb-media2.ibb.gov.tr/hls/891.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", KCO HUSEYINLI KOMURLUK 4
+https://ibb-media2.ibb.gov.tr/hls/892.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D020 GÖKTÜRK KAV
+https://ibb-media2.ibb.gov.tr/hls/895.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D020 ISTAC KATI ATIK TES.
+https://ibb-media2.ibb.gov.tr/hls/894.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D020 GOKTURK GOLET
+https://ibb-media2.ibb.gov.tr/hls/896.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", D020 ISTANBUL HAVALIMANI CIKIS
+https://ibb-media2.ibb.gov.tr/hls/901.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", CATALCA CAKIL KAV.
+https://ibb-media2.ibb.gov.tr/hls/911.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 13003 GOP KIZILAY
+https://ibb-media2.ibb.gov.tr/hls/912.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", 31022 GENERAL ALI IHSAN TURKKAN CAD.
+https://ibb-media2.ibb.gov.tr/hls/913.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", O-3 BAYRAMPASA ALTINTEPSI
+https://ibb-media2.ibb.gov.tr/hls/949.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BEYKOZ BELEDIYE
+https://ibb-media2.ibb.gov.tr/hls/950.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", S. YOLU PENDIK 1
+https://ibb-media2.ibb.gov.tr/hls/951.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TAKSİM ALTGEÇİDİ TAŞKIŞLA ÇIKIŞI
+https://ibb-media2.ibb.gov.tr/hls/1025.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TAKSİM ALTGEÇİDİ ELMADAĞI ÇIKIŞI
+https://ibb-media2.ibb.gov.tr/hls/1027.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TAKSİM ALTGEÇİDİ TARLABAŞI GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1026.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", HARBİYE ALTGEÇİDİ NİŞANTAŞI GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1022.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", HARBİYE ALTGEÇİDİ TAŞKIŞLA GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1023.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", VECDİ DİKER TÜNELİ ALTUNİZADE GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1031.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", VECDİ DİKER TÜNELİ ÜMRANİYE GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1032.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BALMUMCU ALTGEÇİDİ BALMUMCU GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1033.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", V.RECEP YAZICIOĞLU ŞİRİNTEPE GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1030.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", V.RECEP YAZICIOĞLU KOCASİNAN GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1029.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", H.U.TÜNELİ BEYKOZ GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1021.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", H.U.TÜNELİ RİVA GİRİŞİ
+https://ibb-media2.ibb.gov.tr/hls/1020.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", SA-HS-KMH-01
+https://ibb-media2.ibb.gov.tr/hls/1024.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", BALMUMCU ALTGECIDI Z.KUYU GIRISI
+https://ibb-media2.ibb.gov.tr/hls/1034.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB Trafik Kameraları" tvg-logo="https://i.imgur.com/G3mIRdT.png", TANTAVI TUNELI UMRANIYE GIRISI
+https://ibb-media2.ibb.gov.tr/hls/1028.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bağcılar Belediyesi" tvg-logo="https://i.imgur.com/6NO7HW6.png", Halk Sarayı - Takı Salonu
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_59414489d70f5.smil/Playlist.m3u8
+#EXTINF:-1 group-title="Bağcılar Belediyesi" tvg-logo="https://i.imgur.com/6NO7HW6.png", Halk Sarayı - Konuklar
+https://bagcilarbelediyesilive.mediatriple.net/bagcilarbelediyesi_live/broadcast_5941447a83611.smil/Playlist.m3u8
