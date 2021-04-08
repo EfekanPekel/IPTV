@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kastamonu Belediyesi" tvg-logo="https://i.imgur.com/POv7Soe.png", Cumhuriyet Meydanı
+http://212.174.162.172:1935/live/cumhuriyetrafik.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kastamonu Belediyesi" tvg-logo="https://i.imgur.com/POv7Soe.png", Toklu Tepe
+http://212.174.162.172:1935/live/toklu.stream/playlist.m3u8
+#EXTINF:-1 group-title="Seydiler Belediyesi" tvg-logo="https://i.imgur.com/sszr66G.png", Seydiler 1
+http://yayin.basturkelektronik.com:8080/live/seydiler1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Seydiler Belediyesi" tvg-logo="https://i.imgur.com/sszr66G.png", Seydiler 2
+http://yayin.basturkelektronik.com:8080/live/seydiler2.stream/playlist.m3u8
