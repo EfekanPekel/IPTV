@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 group-title="Kahramanmaraş Belediyesi" tvg-logo="https://i.imgur.com/nYgENnY.png", Şelale Kavşağı
+http://95.0.155.24/live/selale.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kahramanmaraş Belediyesi" tvg-logo="https://i.imgur.com/nYgENnY.png", Boğaziçi Kavşağı
+http://95.0.155.24/live/bogazici.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kahramanmaraş Belediyesi" tvg-logo="https://i.imgur.com/nYgENnY.png", Dr. Mustafa Meydanı
+http://95.0.155.24/live/drmustafa.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kahramanmaraş Belediyesi" tvg-logo="https://i.imgur.com/nYgENnY.png", Kapalı Çarşı 1
+http://95.0.155.24/live/kapalicarsi1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kahramanmaraş Belediyesi" tvg-logo="https://i.imgur.com/nYgENnY.png", Kapalı Çarşı 2
+http://95.0.155.24/live/kapalicarsi2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kahramanmaraş Belediyesi" tvg-logo="https://i.imgur.com/nYgENnY.png", Elbistan Meydan
+http://95.0.155.24/live/elbistanmeydan.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kahramanmaraş Belediyesi" tvg-logo="https://i.imgur.com/nYgENnY.png", Göksun Kavşak
+http://95.0.155.24/live/goksun.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kahramanmaraş Belediyesi" tvg-logo="https://i.imgur.com/nYgENnY.png", Pazarcık Meydanı
+http://95.0.155.24/live/pazarcik.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kahramanmaraş Belediyesi" tvg-logo="https://i.imgur.com/nYgENnY.png", Ulucami
+http://95.0.155.24/live/ulucami.stream/playlist.m3u8
