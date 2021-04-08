@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Aksaray" tvg-logo="https://i.imgur.com/qWyGjxr.png", Belediye Önü
+http://185.106.20.233:1935/live/bel1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Aksaray" tvg-logo="https://i.imgur.com/qWyGjxr.png", Valilik
+http://185.106.20.233:1935/live/bel2.stream/playlist.m3u8
