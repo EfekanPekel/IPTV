@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Çorum Belediyesi" tvg-logo="https://i.imgur.com/RaXfdyd.png", Akşemseddin Cami
+http://95.0.0.94:1935/live/aksemseddincami.stream/playlist.m3u8
+#EXTINF:-1 group-title="Çorum Belediyesi" tvg-logo="https://i.imgur.com/RaXfdyd.png", Bahabey Kavşağı
+http://95.0.0.94:1935/live/bahabey.stream/playlist.m3u8
+#EXTINF:-1 group-title="Çorum Belediyesi" tvg-logo="https://i.imgur.com/RaXfdyd.png", Gazi Caddesi
+http://95.0.0.94:1935/live/saatkulesi.stream/playlist.m3u8
+#EXTINF:-1 group-title="Çorum Belediyesi" tvg-logo="https://i.imgur.com/RaXfdyd.png", İnönü Caddesi
+http://95.0.0.94:1935/live/inonucaddesi.stream/playlist.m3u8
+#EXTINF:-1 group-title="Çorum Belediyesi" tvg-logo="https://i.imgur.com/RaXfdyd.png", Meclis Salonu
+http://95.0.0.94:1935/live/konferanssalonu.stream/playlist.m3u8
+#EXTINF:-1 group-title="Çorum Belediyesi" tvg-logo="https://i.imgur.com/RaXfdyd.png", Meclis Salonu 2
+http://95.0.0.94:1935/live/konferanssalonu2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Çorum Belediyesi" tvg-logo="https://i.imgur.com/RaXfdyd.png", Meydan
+http://95.0.0.94:1935/live/TasBinaHavuz.stream/playlist.m3u8
