@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="Marmaris Belediyesi" tvg-logo="https://i.imgur.com/lOr4xBy.png", Atatürk Bulvarı
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/ataturk/playlist.m3u8
+#EXTINF:-1 group-title="Marmaris Belediyesi" tvg-logo="https://i.imgur.com/lOr4xBy.png", Belediye
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/belediye/playlist.m3u8
+#EXTINF:-1 group-title="Marmaris Belediyesi" tvg-logo="https://i.imgur.com/lOr4xBy.png", Bozburun
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8
+#EXTINF:-1 group-title="Marmaris Belediyesi" tvg-logo="https://i.imgur.com/lOr4xBy.png", İçmeler
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/icmeler/playlist.m3u8
+#EXTINF:-1 group-title="Marmaris Belediyesi" tvg-logo="https://i.imgur.com/lOr4xBy.png", Kordon
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/kordon/playlist.m3u8
+#EXTINF:-1 group-title="Marmaris Belediyesi" tvg-logo="https://i.imgur.com/lOr4xBy.png", Meydan
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/meydan/chunklist_w11552912.m3u8
+#EXTINF:-1 group-title="Marmaris Belediyesi" tvg-logo="https://i.imgur.com/lOr4xBy.png", Uzunyalı
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/uzunyali/playlist.m3u8
+#EXTINF:-1 group-title="Marmaris Belediyesi" tvg-logo="https://i.imgur.com/lOr4xBy.png", Yat Limanı
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/yatlimani/playlist.m3u8
